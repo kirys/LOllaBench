@@ -1,5 +1,6 @@
 llama3.2:3b-instruct-fp16
 llama3.1:8b-instruct-q8_0
 mistral-small:24b-instruct-2501-q4_K_M
+gemma2:27b-instruct-q4_0
 qwen2.5:32b-instruct-q4_0
 llama3.3:70b-instruct-q4_0
