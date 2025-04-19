@@ -1,0 +1,4 @@
+llama3.1:8b-instruct-q8_0
+mistral-nemo:12b-instruct-2407-q8_0
+gemma2:27b
+command-r
